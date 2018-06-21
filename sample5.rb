@@ -1,1 +1,1 @@
-puts "McDonals"
+puts "McDonadls"
